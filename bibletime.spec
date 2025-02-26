@@ -6,7 +6,7 @@ Summary:		Easy to use Bible study tool
 License:		GPLv2+
 Url:		https://www.bibletime.info/
 Group:		Text tools
-Source0:	https://github.com/bibletime/archive/refs/tags/v%{version}.tar.gz
+Source0:	https://github.com/bibletime/bibletime/archive/v%{version}/%{name}-%{version}.tar.gz
 BuildRequires:	boost-devel
 BuildRequires:	cmake
 BuildRequires:	cmake(ECM)
